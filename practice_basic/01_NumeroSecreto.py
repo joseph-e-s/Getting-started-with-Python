@@ -1,4 +1,3 @@
-
 '''Haz un programa que:
 1- Genere un número aleatorio entre 1 y 10
 2- Le pida al usuario que adivine el número
@@ -9,6 +8,7 @@ num_secreto = 38
 intentos = 0
 
 while True:
+    print("-" * 43)
     try:
         num_usuario = int(input("Adivina el numero secreto entre 0-100: "))
         

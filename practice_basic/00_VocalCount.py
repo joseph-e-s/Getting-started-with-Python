@@ -1,7 +1,7 @@
-'''Crea un programa en Python que:
-Pida al usuario una palabra o frase_usuario.
-Cuente cuántas vocales tiene (a, e, i, o, u).
-Muestre el total de vocales encontradas.'''
+'''Crea un programa que:
+1- Pida al usuario una palabra o frase_usuario.
+2- Cuente cuántas vocales tiene (a, e, i, o, u).
+3- Muestre el total de vocales encontradas.'''
 
 print("\n*Total de vocales en una frase*")
 print("-" * 46)

@@ -1,4 +1,3 @@
-
 '''Haz un programa que:
 1- Pida un número al usuario
 2- Muestre la tabla de multiplicar de ese número del 1 al 10'''
