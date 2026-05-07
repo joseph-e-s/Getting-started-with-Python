@@ -29,6 +29,3 @@ while True:
             break
     except ValueError: 
             print("Solo se pueden digitar numeros\n")
-
-            
-            
