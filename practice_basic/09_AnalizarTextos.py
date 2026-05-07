@@ -8,6 +8,9 @@ Pedir una frase al usuario
 -Cantidad de palabras
 -Cuántas veces aparece una letra específica (que el usuario elija)'''
 
+print("\n*Analizador de textos*")
+print("-" * 30)
+
 while True:
     frase = input("Escriba su frase: ").lower()
         
@@ -64,5 +67,5 @@ print(f"Cantidad de palabras: {cantidad_palabras}")
 for letra in frase:
     if letra != " " and letra_especifica == letra:
         cantidad_letra += 1
-print(f"La letra escogida fue ({letra_especifica}) y aparece {cantidad_letra} veces\n")
+print(f"La letra escogida fue la ({letra_especifica}) y aparece {cantidad_letra} veces\n")
     

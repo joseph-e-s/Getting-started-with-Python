@@ -11,7 +11,8 @@ Ignorar:
 
 
 
-print("*Programa para detectar palindromos*")
+print("\n*Programa para detectar palindromos*")
+print("-" * 50)
 
 while True:
     frase = input("Escriba su frase o (fin) para salir: ")
@@ -21,7 +22,7 @@ while True:
         continue  
 
     if frase.lower() == 'fin':
-        print("Saliendo del programa...\n")
+        print("\nSaliendo del programa...\n")
         break
     
     es_valida = True

@@ -9,13 +9,16 @@ Mostrar:
 -Cantidad de gastos ingresados
 -Promedio de gasto'''
 
+print("\n*Contador de gastos diarios*")
+print("-" * 50)
+
 
 lista_gastos = []
 
 while True:
-    gastos = input("Ingrese un gasto (o digite fin para salir): ")
+    gastos = input("Ingrese un gasto (o digite fin para salir): ").strip()
 
-    if gastos.lower == "fin":
+    if gastos.lower() == "fin":
         print("Saliendo...\n")
         break
 
