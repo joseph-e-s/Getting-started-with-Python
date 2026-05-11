@@ -1,7 +1,6 @@
 '''
  EL FAMOSO "FIZZ BUZZ"
- 1- Escribe un programa que pida al usuario un rango.
-(ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+ 1- Escribe un programa que pida al usuario un rango, para ver en ese rango lo numeros que son:
   -Múltiplos de 3 por la palabra "fizz".
   -Múltiplos de 5 por la palabra "buzz".
   -Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
