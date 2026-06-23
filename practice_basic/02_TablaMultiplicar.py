@@ -5,7 +5,7 @@
 
 while True:
     print("-" * 75)
-    num_usuario = input("Digite un numero para ver su tabla de multiplicar o (fin) para salir: ").strip()
+    num_usuario = input("Digite un numero o fin para salir: ").strip()
 
     if not num_usuario:
         print("Error: solo se permiten numeros o 'fin'.\n")
