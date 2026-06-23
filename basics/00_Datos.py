@@ -21,3 +21,4 @@ print(type(True)) # Tipo boleano -> Nos dice si es Verdadero o Falso
 
 
 
+
