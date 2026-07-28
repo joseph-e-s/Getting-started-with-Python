@@ -1,8 +1,8 @@
 # Esto es un comentario en una linea
 """Esto es un comentario
 en varias 
-lineas"""
-# Para un realizar un comentario se utiliza tanto '' como "" es lo mismo
+lineas""" # los comentarios de varias lineas son verdes, en cambio los de una sola son grises
+# Para un realizar un comentario se utiliza tanto ''' como """ es lo mismo
 
 # Por "imprimir" nos referimos a mostrar por consola 
 # Print() - imprime el valor que contiene una variable o una cadena de texto como tal
